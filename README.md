@@ -1,7 +1,5 @@
 # HILL CIPHER
-HILL CIPHER
-EX. NO: 3 AIM:
- 
+HILL CIPHER EX. NO: 3 AIM:
 
 IMPLEMENTATION OF HILL CIPHER
  
@@ -30,6 +28,7 @@ STEP-5: Combine all these groups to get the complete cipher text.
 
 ## PROGRAM 
 ```
+
 #include <stdio.h> 
 #include <string.h> 
 #include <ctype.h> 
@@ -113,7 +112,7 @@ return 0;
 
 ## OUTPUT
 
-<img width="720" height="331" alt="Screenshot 2026-05-11 154757" src="https://github.com/user-attachments/assets/00c17620-fba8-4a1f-8c12-b011255b15c4" />
+<img width="1671" height="1037" alt="Screenshot 2026-05-17 154534" src="https://github.com/user-attachments/assets/d3f4fc86-13fa-4333-bcab-ac8561dd2757" />
 
 ## RESULT
 C program to implement the hill cipher substitution techniques is sucessfully verified.
